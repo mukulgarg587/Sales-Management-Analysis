@@ -28,4 +28,6 @@ Prerequisites
 SQL Server or any SQL database.
 Power BI Desktop.
 Microsoft Excel.
+Power BI Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZDFkZWFkYzMtYjkyYS00YzdmLWJkNDctNmZmNzM1YTAxZGJkIiwidCI6ImE2MTY5ODFkLWUzNTQtNDU5Yi04YzY3LTBmZGEzMThiMDI0ZiJ9
+
 Data Source : https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
